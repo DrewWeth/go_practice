@@ -3,7 +3,6 @@
 package main
 
 import "fmt"
-
 var print = fmt.Println
 
 type Node struct {
