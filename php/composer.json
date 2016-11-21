@@ -1,0 +1,14 @@
+{
+    "name": "zizimaza/php",
+    "description": "Hello world project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Drew Wetherington",
+            "email": "Dgwetherington@gmail.com"
+        }
+    ],
+    "require": {
+      "phroute/phroute": "1.*"
+    }
+}
