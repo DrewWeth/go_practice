@@ -1,0 +1,12 @@
+Notes:
+
+If swap proportion was too low it would create twins that would force the data to a single genetic make up.
+I increased the swapping chance, but sometimes it would still converge. Could be a problem with small sample size.
+I added random mutations to combat this.
+
+I didnt like just selecting the top half best genes. It would force convergence. I opted for PMX to allow for sub-optimal genes to continue
+
+Incude shuffling for random mating between offspring
+Forces individuals that went broke to die by making their worth 0.
+
+Sick of single-action-substitutions causing convergence and twins. I opted for single-point mutation

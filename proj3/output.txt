@@ -1,0 +1,24 @@
+AGW: Finances
+Generation 0 	avg cash: 3769.352999999999 	avg worth: 7044.767 	size: 10
+Generation 1 	avg cash: 6196.308499999998 	avg worth: 9586.630999999998 	size: 20
+Generation 2 	avg cash: 7554.2125 	avg worth: 9525.649000000001 	size: 20
+Generation 3 	avg cash: 6506.142999999999 	avg worth: 9049.853999999998 	size: 20
+Generation 4 	avg cash: 4997.003000000001 	avg worth: 7555.1134999999995 	size: 20
+Generation 5 	avg cash: 6194.0345 	avg worth: 9014.059499999998 	size: 20
+Generation 6 	avg cash: 7387.4810000000025 	avg worth: 10091.059000000001 	size: 20
+Generation 7 	avg cash: 3506.9515000000015 	avg worth: 5004.1455000000005 	size: 20
+Generation 8 	avg cash: 5067.5909999999985 	avg worth: 7985.150999999998 	size: 20
+Generation 9 	avg cash: 6050.082 	avg worth: 9407.372 	size: 20
+Generation 10 	avg cash: 3566.3735 	avg worth: 6455.928 	size: 20
+Generation 11 	avg cash: 3416.6254999999974 	avg worth: 7000.428999999998 	size: 20
+Generation 12 	avg cash: 7427.6055 	avg worth: 10091.425 	size: 20
+Generation 13 	avg cash: 6567.5905 	avg worth: 9986.821499999998 	size: 20
+Generation 14 	avg cash: 4645.553499999998 	avg worth: 8555.3725 	size: 20
+Generation 15 	avg cash: 8177.508 	avg worth: 9466.074000000002 	size: 20
+Generation 16 	avg cash: 8306.590499999998 	avg worth: 10095.723 	size: 20
+Generation 17 	avg cash: 8944.872 	avg worth: 10058.11 	size: 20
+Generation 18 	avg cash: 7142.351000000002 	avg worth: 9499.087500000001 	size: 20
+Generation 19 	avg cash: 2909.9079999999985 	avg worth: 6572.793999999999 	size: 20
+Generation 20 	avg cash: 4483.890000000002 	avg worth: 6051.392500000001 	size: 20
+Generation 21 	avg cash: 3862.472999999998 	avg worth: 5478.514 	size: 20
+Generation 22 	avg cash: -338.76250000000016 	avg worth: 0 	size: 20
