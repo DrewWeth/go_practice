@@ -46,7 +46,7 @@ public class VectorClock{
       }
       if(tempResult == 0){
         if(c1 > c2){
-          tempResult = 1;
+          tempResult = 1; 
         }else if(c2 > c1){
           tempResult = -1;
         }
